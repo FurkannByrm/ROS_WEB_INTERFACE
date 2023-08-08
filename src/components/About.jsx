@@ -7,7 +7,7 @@ class About extends Component {
         return (
         <div>
             <h1>About</h1>
-            <p>Altınay Robot Teknolojileri için geliştirilmiş AMR Robot Arayüzüdür
+            <p>Altınay Robot Teknolojileri için Furkan BAYRAM tarafından geliştirilmiş AMR Robot Arayüzüdür
              </p>
         </div>
         
